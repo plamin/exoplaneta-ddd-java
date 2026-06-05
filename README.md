@@ -48,7 +48,6 @@ Analisar exoplanetas e calcular um índice de habitabilidade com base em caracte
 * Consulta de exoplanetas por nome
 * Cálculo do índice de habitabilidade
 * Cadastro manual de novos exoplanetas
-* Persistência dos dados cadastrados
 
 ## Fonte dos Dados
 
