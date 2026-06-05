@@ -1,9 +1,9 @@
 # Integrantes
-Tomás Antonio Braga Cantuária       RM: 563295
-Clara Barboza Costa       RM: 561490
-Lucas Santana Silva       RM: 566261
-Pedro Henrique Lamin Rodrigue   RM: 566379
-Vinicius Alexandre Aureliano Ribeiro RM: 561606
+Tomás Antonio Braga Cantuária       RM: 563295 </br>
+Clara Barboza Costa       RM: 561490</br>
+Lucas Santana Silva       RM: 566261</br>
+Pedro Henrique Lamin Rodrigue   RM: 566379</br>
+Vinicius Alexandre Aureliano Ribeiro RM: 561606</br>
 
 
 
