@@ -23,11 +23,7 @@ public class Main {
         EventPublisher publisher = new EventPublisher();
 
         ExoplanetaApplicationService app =
-                new ExoplanetaApplicationService(
-                        repository,
-                        service,
-                        publisher
-                );
+                new ExoplanetaApplicationService(repository,service,publisher);
 
 
         LeitorCsv leitor = new LeitorCsv();
@@ -141,11 +137,11 @@ public class Main {
                     double temperatura =
                             Double.parseDouble(scanner.nextLine());
 
-                    System.out.print("Massa da estrela (M☉): ");
+                    System.out.print("Massa da estrela (Massas Solares): ");
                     double massaEstrela =
                             Double.parseDouble(scanner.nextLine());
 
-                    System.out.print("Raio da estrela (R☉): ");
+                    System.out.print("Raio da estrela (Raios Solares): ");
                     double raioEstrela =
                             Double.parseDouble(scanner.nextLine());
 
